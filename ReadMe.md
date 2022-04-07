@@ -24,9 +24,9 @@
 
 # Below is the GitHub Pages published link and the GitHub Repository address:
 
-https://bilcon.github.io/seo-refactor/
+https://bilcon.github.io/seo-refactor2/
 
-https://github.com/bilcon/seo-refactor
+https://github.com/bilcon/seo-refactor2
 
 # Here is a screen shot of the webpage when deployed
 
